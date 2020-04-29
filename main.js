@@ -3,5 +3,5 @@ function changePic() {
 }
 
 function normalPic() {
-    document.getElementById("profilePic").src = "Profile.jpg";
+    document.getElementById("profilePic").src = "ProfilePIC.jpg";
 }
