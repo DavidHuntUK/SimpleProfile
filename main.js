@@ -1,5 +1,5 @@
 function changePic() {
-    document.getElementById("profilePic").src = "P2.jpg";
+    document.getElementById("profilePic").src = "ProfessionalProfilePIc.jpg";
 }
 
 function normalPic() {
